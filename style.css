@@ -1,0 +1,49 @@
+body{
+    border: solid 1px;
+}
+
+.welcome{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.italic{
+    font-style: italic;
+}
+li:nth-child(1){
+    color: red;
+}
+p.custom-paragraph {
+    line-height: 1.5em;
+        
+    }
+    
+}
+p.custom-paragraph:first-letter {
+    font-size: 40px;
+    line-height: 1.5em;
+}
+
+.logo{
+    width: 150px;
+    height: 150px;
+    float: right;
+
+}
+
+.container{
+    max-width: 960px;
+    margin: auto;
+}
+
+tr {
+    color: blue;
+}
+.survey{
+    border: 5px;
+    width: auto;
+}
+.btn{
+    background-color: #c4f1fe;
+    color: #2d525d;
+
+}
